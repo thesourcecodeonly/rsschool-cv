@@ -15,8 +15,11 @@ organization and perseverance will help me become a web developer.
 ********
 #### Contacts:
 Email: zv.specialone@gmail.com
+
 Telegram: @vz_specialone 
+
 Discord: ВячеславVZ#3888
+
 Tel: +7-902-2045802
 ********
 #### Skills:
