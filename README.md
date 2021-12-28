@@ -1,2 +1,2 @@
 # rsschool-cv
-For decision tasks of RS School
+https://vyacheslav833-hub.github.io/rsschool-cv/cv
