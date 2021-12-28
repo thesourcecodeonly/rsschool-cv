@@ -11,7 +11,8 @@ Now I understand that this is not the case, that it takes much more time to stud
 With the help of a course from RS School, I have a self-study plan for a period of up to 12 months, 
 possibly for a longer period. I think that my strengths: analytical mindset, 
 organization and perseverance will help me become a web developer.
-** As they say, the road will be mastered by the walking! **
+*** As they say, the road will be mastered by the walking! ***
+
 ********
 #### Contacts:
 Email: zv.specialone@gmail.com
