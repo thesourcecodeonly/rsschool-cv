@@ -13,3 +13,9 @@ possibly for a longer period. I think that my strengths: analytical mindset,
 organization and perseverance will help me become a web developer.
 **As they say, the road will be mastered by the walking!**
 ********
+#### Contacts:
+Email: zv.specialone@gmail.com
+Telegram: @vz_specialone 
+Discord: ВячеславVZ#3888
+Tel: +7-902-2045802
+********
