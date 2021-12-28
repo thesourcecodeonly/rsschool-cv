@@ -19,3 +19,31 @@ Telegram: @vz_specialone
 Discord: ВячеславVZ#3888
 Tel: +7-902-2045802
 ********
+#### Skills:
+1. HTML
+2. CSS
+3. JavaScript
+********
+#### JavaScript code example:
+```
+// functions
+// function declaration
+function getName1(name) {
+    return `1. The name is ${name}`;
+};
+console.log(getName1('Jon'));
+
+// function expression
+const getName2 = function (name) {
+    return `2. The name is ${name}`;
+};
+console.log(getName2('Juliya'));
+
+// arrow function
+const getName3 = (name) => {
+    return `3. The name is ${name}`;
+};
+console.log(getName3('Voldemar'));
+```
+********
+English level A2 
