@@ -7,7 +7,112 @@
     <link rel="stylesheet" href="style.css">
     <title>CV</title>
 </head>
-<body>
-    
+<body>    
+    <header class="header">        
+        <nav class="nav">
+          <ul class="nav-list">
+            <li class="nav-item"><a href="#summary-contacts" class="nav-link">Summary</a></li>
+            <li class="nav-item"><a href="#summary-contacts" class="nav-link">Contacts</a></li>            
+            <li class="nav-item"><a href="#code-skills" class="nav-link">Code</a></li>
+            <li class="nav-item"><a href="#code-skills" class="nav-link">Skills</a></li>            
+            <li class="nav-item"><a href="#projects-courses" class="nav-link">Projects</a></li>
+            <li class="nav-item"><a href="#projects-courses" class="nav-link">Courses</a></li>
+            <li class="nav-item"><a href="#education-english" class="nav-link">Education</a></li>
+            <li class="nav-item"><a href="#education-english" class="nav-link">English</a></li>
+          </ul>
+        </nav>            
+    </header>
+    <main>
+        <section class="section" id="name-image">
+          <div class="header-name">
+            <h1>Vyacheslav Zhigalov</h1>
+            <h2>Beginner Front-End Developer</h2>
+          </div>
+          <div class="header-image">
+            <img src="CVavatar.png" style="width: 250px; height: 150px;" alt="avatar">
+          </div>
+        </section>            
+        <section class="section" id="summary-contacts">
+          <div class="section-summary">
+            <h3>Summary</h3>              
+            <p>
+              I am from the city of Penza, Russia. I am 52 years old. I am a retired military officer. 
+              In addition to my main job as a operator of mashines with numerical control, 
+              I am engaged in self-education in the field of web development. I like programming.
+              I am sure that thanks to my strong qualities: analytical mindset and perseverance,
+              in the next 2 years I will become a professional web developer. 
+              The road will be mastered by the walking!
+            </p>
+          </div>            
+          <div class="section-contacts">
+            <h3>Contacts</h3>
+            <ul>
+              <li>Email: zv.specialone@gmail.com</li>
+              <li>Telegram: @vz_specialone</li>
+              <li>Discord: ВячеславVZ#3888</li>
+              <li>Tel: +7-902-2045802</li>
+            </ul>
+          </div>
+        </section> 
+        <section class="section" id="code-skills">
+          <div class="section-code">
+            <h3>Code</h3>
+            <pre>
+              <code>                
+                function solution (str, ending) {
+                  const partStr = str.substring(str.length - ending.length);
+                  if (partStr === ending) {
+                    return true;
+                  } else {
+                    return false;
+                  }
+                }
+              </code>
+            </pre>
+          </div>
+          <div class="section-skills">
+            <h3>Skills</h3>
+            <ul>
+              <li>HTML</li>
+              <li>CSS</li>
+              <li>JavaScript</li>
+              <li>React</li>
+              <li>Git</li>
+            </ul>
+          </div>
+        </section>          
+        <section class="section" id="projects-courses">
+          <div class="section-code">
+            <h3>Projects</h3>
+            <p>There will be ready-made projects here, but later</p>
+          </div>
+          <div class="section-skills">
+            <h3>Courses</h3>
+            <ul>
+              <li>HTML Academy</li>
+              <li>Junior Frontend Developer from Vladilen Minin (unfinished)</li>                
+            </ul>
+          </div>
+        </section>           
+        <section class="section" id="education-english">
+          <div class="section-code">
+            <h3>Education</h3>
+            <p>In 1990, I graduated with honors from the Sverdlovsk Higher Military-Political Tank School</p>
+          </div>
+          <div class="section-skills">
+            <h3>English</h3>
+            <p>Level A2+</p>
+          </div>
+        </section>       
+    </main>
+    <footer class="footer">        
+        <p>2022</p>
+        <a href="https://github.com/Vyacheslav833-hub">
+          <img src="github-favicon.ico" style="width: 30px; height: 30px;" alt="GitHub logo">
+        </a>
+        <a href="https://rs.school/js/">
+          <img src="https://rs.school/images/rs_school_js.svg" style="width: 60px; height: 30px;" alt="RS School logo">
+        </a>            
+    </footer>   
 </body>
 </html>
